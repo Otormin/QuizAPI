@@ -149,3 +149,5 @@ C:\Users\Young\Source\Repos\QuizWebApiProject\bin\Debug\net8.0\StarkbankEcdsa.dl
 C:\Users\Young\Source\Repos\QuizWebApiProject\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 C:\Users\Young\Source\Repos\QuizWebApiProject\bin\Debug\net8.0\MailKit.dll
 C:\Users\Young\Source\Repos\QuizWebApiProject\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Young\Source\Repos\QuizWebApiProject\bin\Debug\net8.0\appsettingsSample.json
+C:\Users\Young\Source\Repos\QuizWebApiProject\obj\Debug\net8.0\QuizWebApiProject.sourcelink.json
